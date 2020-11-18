@@ -1,0 +1,23 @@
+{
+    "name": "scp-sync",
+    "version": "0.0.9",
+    "description": "Tool for syncing your progress on some remote machine through scp, while trying to overcome some of the limitation of scp.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "fswatch",
+        "fs",
+        "watch",
+        "scp",
+        "file-watch",
+        "file",
+        "ssh"
+    ],
+    "author": "Alexandre Weisser",
+    "license": "ISC",
+    "dependencies": {
+        "recursive-watch": "^1.1.4"
+    }
+}
